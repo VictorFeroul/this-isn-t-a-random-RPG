@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"People1","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Joueur","nickname":"Joueur","note":"","profile":""},
+{"id":2,"battlerName":"Link","characterIndex":0,"characterName":"Link","classId":2,"equips":[2,1,0,0,0],"faceIndex":0,"faceName":"Link","traits":[],"initialLevel":1,"maxLevel":99,"name":"Link","nickname":"Link","note":"","profile":"Bah c'est un genre de guerrier lutin "},
+{"id":3,"battlerName":"mario","characterIndex":0,"characterName":"mario2","classId":3,"equips":[3,0,2,0,0],"faceIndex":0,"faceName":"mario","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mario","nickname":"Mario","note":"","profile":"Un plombier italien un peu trop accroc aux champignons."},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Merlin","characterIndex":0,"characterName":"Merlin","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Merlin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gandalf","nickname":"Gandalf","note":"","profile":"C'est en partie sa faute si t'es la. Mais il a des pom'pot\n"}
+]

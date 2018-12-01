@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"animationId":1,"description":"A simple mouse without my keyboard","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":55,"dataId":0,"value":10}],"iconIndex":111,"name":"Mouse","note":"","params":[0,0,5,0,5,0,0,0],"price":500,"wtypeId":3},
+{"id":2,"animationId":6,"description":"Leprechaum sword...\n","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Master Sword","note":"","params":[0,0,20,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":3,"animationId":1,"description":"Big gloves for big hand. ","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Mario's gloves","note":"","params":[0,0,20,0,0,0,20,0],"price":500,"wtypeId":11},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":5,"animationId":0,"description":"That's the name of Gandalf's stick","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Ash Stick","note":"","params":[0,0,5,0,20,0,0,0],"price":0,"wtypeId":0},
+{"id":6,"animationId":0,"description":"It's your first sword ! WOOOOOOOOO !","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Wooden Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":7,"animationId":0,"description":"To be badass,you have to have a badass sword ! ","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":120,"name":"Masamune","note":"","params":[0,0,130,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":8,"animationId":0,"description":"Well, it's a kind of lightsaber...","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Excalibur","note":"","params":[0,0,300,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
